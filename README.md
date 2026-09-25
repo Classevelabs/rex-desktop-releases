@@ -6,4 +6,4 @@ Download the current build from [Releases](https://github.com/Classevelabs/rex-d
 
 Do not delete a release that installed copies may still be updating from.
 
-© CLASSEVE. All rights reserved.
+© ClassEve. All rights reserved.
